@@ -7,6 +7,8 @@ description: Information on the NYU E-Cigarette Study.
 
 Welcome to the NYU E-Cigarette Study information page. If you are interested in assessing your eligiblity for this study, visit [this link](https://nyu.qualtrics.com/jfe/form/SV_7R0troHmfry4MDj/). Please review the informed consent materials below. You will need to sign this document upon enrollment in the study. You do not need to bring it to your appointment; we will have copies printed for you.  
 
+For questions about the study, contact us via (mailto:ecigstudyNYU@gmail.com)
+
 CONSENT FORM FOR PARTICIPANTS
  
  
@@ -14,12 +16,11 @@ TITLE: 				NYU Electronic Cigarette Study
  
  
 SPONSOR:                        	NYU College of Global Public Health
-				Pax Labs, Inc.
  
 INVESTIGATOR:              	Thomas R. Kirchner, Ph.D.
 NYU College of Global Public Health
 New York University
-41 E. 11th St., 7th Floor
+715-719 Broadway, 12th Floor
 New York, NY  10003
 (202) 525-6656
  
