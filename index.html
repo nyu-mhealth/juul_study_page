@@ -1,9 +1,9 @@
 ---
 layout: default
-title: NYU E-Cigarette Study Page 
-tagline: NYU E-Cig Study
-description: Information on the NYU E-Cigarette Study. 
 ---
+<h1>{{ page.title }}</h1>
+<p class="meta">{{ page.date | date_to_string }}</p>
 
-Welcome to the NYU E-Cigarette Study information page. If you are interested in assessing your eligiblity for this study, visit [this link](https://nyu.qualtrics.com/jfe/form/SV_7R0troHmfry4MDj/). Please review the informed consent materials below. You will need to sign this document upon enrollment in the study. You do not need to bring it to your appointment; we will have copies printed for you.  
-
+<div class="post">
+  {{ content }}
+</div>
