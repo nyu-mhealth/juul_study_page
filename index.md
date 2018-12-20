@@ -1,8 +1,5 @@
+# Welcome to the NYU E-Cigarette Study Page
 
+## Here you can find information about the study, assess your eligibility, and find out how to contact the study staff. 
 
-Here you will find info about our study.
-
-Etc.
-
-### For any other questions, feel free to contact us directly
-email phone
+ETC.
