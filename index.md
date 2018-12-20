@@ -1,3 +1,8 @@
-theme: jekyll-theme-tactle
-title: Welcome to the NYU E-Cig Study!
-description: Find out more about our study here. We are currently seeking paid participants. 
+## Welcome to the NYU E-Cig Study Page
+
+Here you will find info about our study.
+
+Etc.
+
+### For any other questions, feel free to contact us directly
+email phone
