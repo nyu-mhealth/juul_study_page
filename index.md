@@ -1,7 +1,6 @@
 ---
 layout: page
 title: simple site
-tagline: NYU Study Site 
 ---
 
 # Welcome to the NYU E-Cigarette Study Page
