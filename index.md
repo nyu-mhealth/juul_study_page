@@ -7,6 +7,6 @@ title: simple site
 
 ## Here you can find information about the study, assess your eligibility, and find out how to contact the study staff. 
 
-ETC.
-
-See Overview here: - [Overview](pages/consent_link.html)
+[Assess Your Eligiblity](https://nyu.qualtrics.com/jfe/form/SV_7R0troHmfry4MDj)
+[Review Informed Consent Document](https://nyu.qualtrics.com/jfe/form/SV_7R0troHmfry4MDj)
+[Review Informed Consent Document](pages/consent_link.html)
