@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Informed Consent 
 ---
 
 ### INFORMED CONSENT FORM FOR PARTICIPANTS
