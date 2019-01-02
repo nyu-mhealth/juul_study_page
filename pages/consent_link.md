@@ -4,7 +4,9 @@ layout: page
 
 ### INFORMED CONSENT FORM FOR PARTICIPANTS
 Please review the below informed consent document. If you are eligible for the study and interested in participating, you will need to read and sign this form when you enroll in our office. 
+
 ----------------------
+
 #### ABOUT THE STUDY
 ----------------------
 You are being invited to take part in a research study. Your participation is voluntary which means you can choose whether or not you want to take part in this study. People who agree to take part in research studies are called "participants", "subjects" or "research subjects". These words are used throughout this consent form. Before you can make your decision, you will need to know what the study is about, the possible risks and benefits of being in this study, and what you will have to do in this study. You may also decide to discuss this study and this form with your family, friends, or doctor. If you have any questions about the study or about this form, please ask us. If you decide to take part in this study, you must sign this form. We will give you a copy of this form signed by you for you to keep.
@@ -34,7 +36,7 @@ The study requires that you only use the ENDS device provided to you by the stud
 
 + Participants may benefit from harm reduction due to switching from combustible cigarettes to e-cigarettes, but this is a new area of research for which the results of the proposed study are applicable.
 
-### WHAT IF NEW INFORMATION BECOMES AVAILABLE?
+#### WHAT IF NEW INFORMATION BECOMES AVAILABLE?
 ----------------------
 During the course of this study we may find more information that could be important to you. This includes information that might cause you to change your mind about being in the study. We will notify you as soon as possible if such information becomes available.
 
