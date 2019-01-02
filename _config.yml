@@ -5,7 +5,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "ReadMe.md", "Rakefile", "changelog.md", "License.md"]
 highlighter: rouge
 
-title : simple site
+title : NYU E-Cigarette Study 
 
 # NOTE: Replacing this next line with your own URL
 production_url : https://sashaeiou.github.io/study_page
