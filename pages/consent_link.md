@@ -35,7 +35,7 @@ The study requires that you only use the ENDS device provided to you by the stud
 
 + Participants may benefit from harm reduction due to switching from combustible cigarettes to e-cigarettes, but this is a new area of research for which the results of the proposed study are applicable.
 
-###WHAT IF NEW INFORMATION BECOMES AVAILABLE?
+### WHAT IF NEW INFORMATION BECOMES AVAILABLE?
 
 During the course of this study we may find more information that could be important to you. This includes information that might cause you to change your mind about being in the study. We will notify you as soon as possible if such information becomes available.
 
