@@ -1,8 +1,6 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Informed Consent 
 ---
 
 ### INFORMED CONSENT FORM FOR PARTICIPANTS
