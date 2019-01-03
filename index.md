@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: NYU E-Cigarette Study
 ---
 
 ## Here you can find information about the study, assess your eligibility, and find out how to contact the study staff. 
