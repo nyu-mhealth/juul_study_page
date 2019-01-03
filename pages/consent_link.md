@@ -2,7 +2,6 @@
 layout: page
 ---
 
-### INFORMED CONSENT FORM FOR PARTICIPANTS
 Please review the below informed consent document. If you are eligible for the study and interested in participating, you will need to read and sign this form when you enroll in our office. 
 
 ----------------------
