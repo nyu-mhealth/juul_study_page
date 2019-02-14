@@ -26,6 +26,14 @@ If you participate in this study you will be asked to track your cigarette and E
 
 The study requires that you only use the ENDS device provided to you by the study team. All participants will receive their ENDS device AFTER they have completed a 1-week observation period. Participants are required to save all used ENDS liquid cartridges and bring in all pods to each office visit. If you successfully complete the study you will be gifted any ENDS device(s) you tested during the study (each retails for about $35), in addition to the monetary incentives described in the "Incentives" section below.
 
++ Your Screening Visit 
+
+This visit takes about 15 minutes. During this visit, we will confirm that you are a smoker and that you are able to respond to text messages using your own cellphone with SMS texting capabilities. Then, you will provide informed consent and we will enroll you in the study. You will be asked to respond to text message prompts 5 times daily related to your cigarette consumption for 1 week. You will also be asked to take a “breath test” to measure carbon monoxide levels.
+
++ Visits 2 - 4
+
+After you have tracked your cigarette consumption for 1 week, you will be asked to come back into our office to receive your e-cigarette device and nicotine pods. You can continue to smoke cigarettes as normal, and use the e-cigarette device as you choose. We will continue to assess your cigarette and e-cigarette consumption with 5 texts daily for the following four weeks. Note that after two weeks, you will be asked to come back into the office and pick up more pods for your e-cigarette device. We will also collect all used and unused pods, from the previous two weeks, at this time. At each study visit, we will assess carbon monoxide (CO) breath levels using a non-invasive CO analyzer. After week 5, you will not receive any more text message surveys, but we will ask you to come to our office one more time for a CO measurement. At this time we will again collect all used and unused pods.
+
 #### RISKS AND BENEFITS
 ----------------------
 
