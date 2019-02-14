@@ -50,7 +50,7 @@ Confidentiality of your research records will be strictly maintained by numerica
 #### VOLUNTARY PARTICIPATION AND WITHDRAWAL AND SHARING OF INFORMATION
 ---------------------------------------------------------------------
 
-+It is your choice to be in this study. No one can force you to be in the study. No one can force you to stay in the study. You can leave the study at any time. Leaving the study will not affect the care you receive. You will still receive the same high level of expert care you were receiving at NYU School of Medicine before you became part of the study.
++ It is your choice to be in this study. No one can force you to be in the study. No one can force you to stay in the study. You can leave the study at any time. Leaving the study will not affect the care you receive. You will still receive the same high level of expert care you were receiving at NYU School of Medicine before you became part of the study.
 
 + The information collected from you will only be used by the researchers and research staff at NYU mHealth. It could also be shared with the National Institutes of Health (NIH), but any data to be shared would be de-identified, which means that it would not include any information that could potentially identify you.
 
