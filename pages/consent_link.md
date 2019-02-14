@@ -45,7 +45,7 @@ You will be paid up to $226.50 in gift card for completing ALL the surveys (appr
 
 #### CONFIDENTIALITY
 ----------------------
-Confidentiality of your research records will be strictly maintained by numerically by coding all data and disguising identifying information.
+Confidentiality of your research records will be strictly maintained numerically by coding all data and deidentifying personal information.
 
 #### VOLUNTARY PARTICIPATION AND WITHDRAWAL AND SHARING OF INFORMATION
 ---------------------------------------------------------------------
